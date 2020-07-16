@@ -1,0 +1,4 @@
+name: Docker Config
+description: set DOCKER_CONFIG to temp directory
+author: https://github.com/envato
+requirements: []
