@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -euo pipefail
+
+echo "Deleting temp DOCKER_CONFIG dir \"${DOCKER_CONFIG}\""
+
+rm -r "$DOCKER_CONFIG"
